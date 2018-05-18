@@ -10,4 +10,4 @@ Questions:
 	3) Check to see if days or prone to having missed appointments
 	4) Check to see if a threshold exists from scheduled date to appointment date
 
-Using datframes, I grouped data in specific ways and made plots to visually see any patters/trends
+Using dataframes, I grouped data in specific ways and made plots to visually see any patters/trends
