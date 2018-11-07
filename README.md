@@ -1,11 +1,6 @@
-# NoShowAppointments
-The Investigate a Dataset Project
+# Exploring a dataset on medical appointments and attendance
 
-Udacity Data Analysis Project
-
-Dataset chosen: No-show appointments
-
-Questions: 
+This was an introduction to python and the bread and butter libraries, numpy, pandas, and matplotlib/seaborn. The purpose was to explore a dataset and wrangle, clean, and apply any feature engineering where needed.  Then visualization was conducted to look for any insights into attendance rates for medical appointments in Brazil. Some of the questions I tried to answer were the following:
 
 	1) Check to see if any morbidites influenced missing appointments
 	
@@ -15,5 +10,4 @@ Questions:
 	
 	4) Check to see if a threshold exists from scheduled date to appointment date
 
-
-Using dataframes, I grouped data in specific ways and made plots to visually see any patters/trends
+This project was a part of the Udacity Data Analyst nanodegree. 
